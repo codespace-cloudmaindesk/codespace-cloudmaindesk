@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tumiso Dinkoanyane
+<h1 align="center"> 👋 Hi, I’m Tumiso Dinkoanyane </h1>
 
  <h3 align="center">👨‍💻 Aspiring Software Engineer | 🌱 Passionate Learner | Open Source Enthusiast</h3>
  
