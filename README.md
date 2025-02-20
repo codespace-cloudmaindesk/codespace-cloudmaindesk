@@ -3,7 +3,7 @@
  <h3 align="center">👨‍💻 Aspiring Software Engineer | 🌱 Passionate Learner | Open Source Enthusiast</h3>
  
 - 👀 I’m interested in Sofware Engineering,Blockchain,Cloud Computing
-- 🌱 I’m currently learning Python,solidity,Java,Html,Css,Javascript,React
+- 🌱 I’m currently learning Python,solidity,Java,HTML,CSS,Javascript,React
 - 💞️ I’m looking to collaborate on : 
 - 📫 How to reach me : 
 - 😄 Pronouns: ...
