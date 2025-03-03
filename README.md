@@ -8,9 +8,9 @@
 - 👀 I’m interested in **Software Engineering**, **Blockchain**, and **Cloud Computing**.
 - 🌱 I’m currently learning **Python**, **Solidity**, **Java**, **HTML**, **CSS**, **JavaScript**, and **React**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative software solutions**.
-- 📫 How to reach me: [Add your email or contact info here].
-- 😄 Pronouns: [Add your pronouns here].
-- ⚡ Fun fact: [Add a fun fact about yourself here].
+- 📫 How to reach me: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 ---
 
