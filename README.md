@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I’m Tumiso Dinkoanyane</h1>
 
-<h3 align="center">👨‍💻 Aspiring Software Engineer | 🌱 Passionate Learner | Open Source Enthusiast</h3>
+<h3 align="center">👨‍💻 Aspiring Data Engineer | 🌱 Passionate Learner | Open Source Enthusiast</h3>
 
 ---
 
 ### **About Me**
-- 👀 I’m interested in **Software Engineering**, **Blockchain**, and **Cloud Computing**.
-- 🌱 I’m currently learning **Python**, **Solidity**, **Java**, **HTML**, **CSS**, **JavaScript**, and **React**.
+- 👀 I’m interested in **Data Engineering**, **Blockchain**, and **Cloud Computing**.
+- 🌱 I’m currently learning **Python**, **Solidity**, **Java**, **HTML**, **CSS**, **JavaScript**,**SQL** and **React**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative software solutions**.
 - 📫 How to reach me: 
 - 😄 Pronouns: 
