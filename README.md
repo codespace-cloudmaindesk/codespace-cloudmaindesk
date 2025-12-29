@@ -60,12 +60,6 @@
 ### **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codespace-cloudmaindesk&show_icons=true&theme=radical)
 
-![GitHub Contributions](https://github.com/codespace-cloudmaindesk/codespace-cloudmaindesk/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 ---
 
 
