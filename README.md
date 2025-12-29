@@ -54,13 +54,18 @@
 ---
 
 ### **Most Used Languages**
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codespace-cloudmaindesk&show_icons=true&locale=en&layout=compact&hide=html,css&theme=radical&langs_count=6" alt="codespace-cloudmaindesk" />
-</p>
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codespace-cloudmaindesk&layout=compact&hide=html,css&theme=radical&langs_count=6)
+
+### **GitHub Stats**
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codespace-cloudmaindesk&show_icons=true&theme=radical)
+
+![GitHub Contributions](https://github.com/codespace-cloudmaindesk/codespace-cloudmaindesk/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 ---
 
-### **GitHub Stats**
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codespace-cloudmaindesk&show_icons=true&locale=en&theme=radical" alt="codespace-cloudmaindesk" />
-</p>
+
