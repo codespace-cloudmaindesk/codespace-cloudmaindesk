@@ -6,7 +6,7 @@
 
 ### **About Me**
 - 👀 I’m interested in **Data Engineering**, **Blockchain**, and **Cloud Computing**.
-- 🌱 I’m currently learning **Python**, **Solidity**, **Java**, **HTML**, **CSS**, **JavaScript**,**SQL** and **React**.
+- 🌱 I’m currently learning **Python**, **Solidity**, **Java**, **HTML**, **ASP.NET** ,**CSS**, **JavaScript**,**SQL** and **React**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative software solutions**.
 - 📫 How to reach me: 
 - 😄 Pronouns: 
